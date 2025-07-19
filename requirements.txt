@@ -1,0 +1,12 @@
+python-jobspy
+streamlit
+jobspy
+pdfplumber
+sentence-transformers
+scikit-learn
+transformers
+chromadb
+pandas
+numpy
+python-dotenv
+playwright
