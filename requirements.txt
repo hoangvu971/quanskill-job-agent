@@ -10,3 +10,5 @@ pandas
 numpy
 python-dotenv
 playwright
+langchain-community
+langchain-google-genai
