@@ -9,7 +9,7 @@
 
 You can directly explore the live app here:  
 
-👉 **[https://quanskill-ai-job-agent.streamlit.app/](https://quanskill-ai-job-agent.streamlit.app/)**  
+👉 **(https://quanskill-job-agent-gyhhiw6fdwgzwjn9nuwdva.streamlit.app/)**  
 
 ---
 
